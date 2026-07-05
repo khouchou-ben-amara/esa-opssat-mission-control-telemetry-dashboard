@@ -320,6 +320,22 @@ Interactive dashboard built in Power BI to monitor spacecraft telemetry, visuali
 
 # 📈 Statistical Analysis
 
+## 📝 Documentation
+
+> **Work in Progress** 🚧
+>
+> The project documentation is currently being finalized and will be uploaded soon.
+>
+> It will include:
+> - Project methodology
+> - Data cleaning and feature engineering process (Dataiku DSS)
+> - Statistical analysis
+> - Dashboard design rationale
+> - Business insights and recommendations
+> - Predictive maintenance use cases
+>
+> Stay tuned for future updates!
+
 ![Statistics](screenshots/statistical-analysis.png)
 
 ---
