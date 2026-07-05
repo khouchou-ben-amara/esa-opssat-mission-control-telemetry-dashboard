@@ -278,9 +278,27 @@ Overall, this project demonstrates how telemetry data can be converted into acti
 
 # 📊 Dashboard Preview
 
-## Executive Dashboard
+### Executive Dashboard - Overview
 
-![Executive Dashboard](screenshots/executive-dashboard.png)
+![Executive Dashboard Overview](screenshots/executive-dashboard-overview.png)
+
+---
+
+### Telemetry Events by Channel
+
+![Telemetry Events by Channel](screenshots/executive-dashboard-channels.png)
+
+---
+
+### Engineering Analysis
+
+![Engineering Analysis](screenshots/executive-dashboard-duration.png)
+
+---
+
+### Statistical Analysis
+
+![Statistical Analysis](screenshots/executive-dashboard-statistics.png)
 
 ---
 
