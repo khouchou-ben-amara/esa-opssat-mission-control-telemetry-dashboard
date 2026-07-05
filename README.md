@@ -302,9 +302,11 @@ Overall, this project demonstrates how telemetry data can be converted into acti
 
 ---
 
-# 🔬 Dataiku Workflow
+## 🔬 Dataiku Workflow
 
-![Dataiku Workflow](screenshots/dataiku-workflow.png)
+Feature engineering and data preparation workflow developed in Dataiku DSS to clean telemetry data, generate engineering features, and prepare the dataset for anomaly detection and Power BI visualization.
+
+- 📸 **![Dataiku Workflow](screenshots/documentation/Telemetry_Feature_Engineered (1))** — Overview of the end-to-end data preparation and feature engineering pipeline.
 
 ---
 ## 📊 Power BI Dashboard
