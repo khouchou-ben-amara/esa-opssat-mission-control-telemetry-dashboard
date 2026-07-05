@@ -302,15 +302,19 @@ Overall, this project demonstrates how telemetry data can be converted into acti
 
 ---
 
-## Engineering Dashboard
-
-![Engineering Dashboard](screenshots/engineering-dashboard.png)
-
----
-
 # 🔬 Dataiku Workflow
 
 ![Dataiku Workflow](screenshots/dataiku-workflow.png)
+
+---
+## 📊 Power BI Dashboard
+
+Interactive dashboard built in Power BI to monitor spacecraft telemetry, visualize anomalies, and provide engineering insights.
+
+- **Telemetry_Feature_Engineered.pdf** — PDF preview of the complete dashboard for quick viewing.
+
+![Power BI Dashboard](screenshots/powerBi_DashboardPage1.png)
+![Power BI Dashboard](screenshots/powerBi_DashboardPage2.png)
 
 ---
 
